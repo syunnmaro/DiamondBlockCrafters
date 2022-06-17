@@ -1,0 +1,14 @@
+name: HowToCreate
+version: "1.0"
+api-version: "1.18"
+main: Main
+author: syunmaro
+commands:
+  addobstacle:
+    usage: "/<command>"
+    description: ""
+    aliases:
+  deleteobstacle:
+    usage: "/<command>"
+    description: ""
+    aliases:
